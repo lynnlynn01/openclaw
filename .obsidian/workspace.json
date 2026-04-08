@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "0cf83260f7e6eb6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6359dc20f243c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d0f726a7fede96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/《笔记的方法》.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《笔记的方法》"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24c970b065951f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "923cbc54d7d5c03e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e84b2bc57d193f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6f2f92b364b72e94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e580b63e1fd0b2af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96701deef4a5e857",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a58ad33d8fc706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02bad94ad744230a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/《笔记的方法》.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "《笔记的方法》 的反向链接列表"
+            }
+          },
+          {
+            "id": "ba7b4dfcf1808140",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书笔记/《笔记的方法》.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "《笔记的方法》 的出链列表"
+            }
+          },
+          {
+            "id": "b2b4ec332f03a3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1f8e1ad16698cb10",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f6f4564eb5a7e66c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书笔记/《笔记的方法》.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "《笔记的方法》 的大纲"
+            }
+          },
+          {
+            "id": "7e4b44ebaff89315",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "a3266e7a34e338fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 533.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7e4b44ebaff89315",
+  "lastOpenFiles": [
+    "读书笔记/《佛畏系统》.md",
+    "读书笔记/《价值：我对投资的思考》.md",
+    "读书笔记/《可能性的艺术：比较政治学30讲》.md",
+    "读书笔记/《清醒思考的策略》.md",
+    "读书笔记/《这才是心理学（第11版，中文版）》.md",
+    "读书笔记/《笔记的方法》.md",
+    "Pasted image 20240521095215.png.md",
+    "待整理金句/观看之道.md",
+    "读书笔记/《纳瓦尔宝典》.md",
+    "待整理金句/《毛泽东自述》.md",
+    "读书笔记/《被讨厌的勇气》.md",
+    "读书笔记/《认知觉醒：开启自我改变的原动力》.md",
+    "AI学习/openclaw.md",
+    "待整理金句/哲学家们都干了些什么？ （修订版）.md",
+    "待整理金句/动画分镜头脚本设计.md",
+    "待整理金句/中医古籍临床名著评注系列：傅青主女科.md",
+    "待整理金句/这书能让你戒烟.md",
+    "待整理金句/隐藏的自我.md",
+    "待整理金句/图解舌诊：伸伸舌头百病消.md",
+    "待整理金句/舌诊十讲.md",
+    "待整理金句/你是你吃出来的：吃对少生病，病了这样吃.md",
+    "待整理金句/号令群神：李天飞“封神”笔记.md",
+    "待整理金句/好诗好在哪里.md",
+    "待整理金句/戴老师高能唐诗课.md",
+    "待整理金句/在森崎书店的日子.md",
+    "待整理金句/心是孤独的猎手（英文原版）.md",
+    "AI学习",
+    "待整理金句",
+    "读书笔记"
+  ]
+}
